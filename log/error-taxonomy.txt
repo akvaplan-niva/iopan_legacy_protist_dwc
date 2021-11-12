@@ -1,0 +1,120 @@
+Alkekonge-2009 alkekonge-2009.ndjson
+(node:8356) ExperimentalWarning: The ESM module loader is experimental.
+Checked 100 names, found 100 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MERCLIM-2009 merclim-2009.ndjson
+(node:8485) ExperimentalWarning: The ESM module loader is experimental.
+Checked 109 names, found 109 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+Alkekonge2010 alkekonge2010.ndjson
+(node:8614) ExperimentalWarning: The ESM module loader is experimental.
+Checked 107 names, found 107 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+ICE2010 ice2010_konghau_database_complete_phytoplankton_niskin.ndjson
+(node:8807) ExperimentalWarning: The ESM module loader is experimental.
+Checked 184 names, found 181 in local taxonomy, unknown: 3
+{"unknown":["Coxiella","Gymnodinium bipes","Tripos elongatum"]}
+{ scientificName: 'Gymnodinium bipes' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Tripos elongatum' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+
+ICE2010 ice2010_konghau_database_complete_handnet.ndjson
+(node:8926) ExperimentalWarning: The ESM module loader is experimental.
+Checked 73 names, found 72 in local taxonomy, unknown: 1
+{"unknown":["Pleuronematine scuticociliates"]}
+{ scientificName: 'Pleuronematine scuticociliates' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+
+MOSJ2011 mosj_2011.ndjson
+(node:9048) ExperimentalWarning: The ESM module loader is experimental.
+Checked 129 names, found 129 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MOSJ2012 mosj2012.ndjson
+(node:9179) ExperimentalWarning: The ESM module loader is experimental.
+Checked 162 names, found 162 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+2012 ice2012wcolumndatabase.ndjson
+(node:9306) ExperimentalWarning: The ESM module loader is experimental.
+Checked 169 names, found 169 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+PolarNight2012 pnc2012-protist.ndjson
+(node:9456) ExperimentalWarning: The ESM module loader is experimental.
+Checked 19 names, found 19 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MOSJ2013 mosj2013.ndjson
+(node:9588) ExperimentalWarning: The ESM module loader is experimental.
+Checked 141 names, found 141 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MOSJ2014 mosj2014_pht.ndjson
+(node:9791) ExperimentalWarning: The ESM module loader is experimental.
+Checked 146 names, found 146 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+2014 ice2014_pht.ndjson
+(node:9910) ExperimentalWarning: The ESM module loader is experimental.
+Checked 104 names, found 104 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MOSJ2015 mosj2015.ndjson
+(node:10068) ExperimentalWarning: The ESM module loader is experimental.
+Checked 71 names, found 69 in local taxonomy, unknown: 2
+{"unknown":["Mamiellales","Statocysta of Dinobryon"]}
+{ scientificName: 'Statocysta of Dinobryon' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+
+N-ICE2015 n-ice2015_pht.ndjson
+(node:10236) ExperimentalWarning: The ESM module loader is experimental.
+Checked 178 names, found 178 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+N-ICE2015 n-ice2015_iat.ndjson
+(node:10411) ExperimentalWarning: The ESM module loader is experimental.
+Checked 164 names, found 156 in local taxonomy, unknown: 8
+{"unknown":["Bacillaria paxillifera var. tumidula","Chrysophyceae cyst 1","Diploneis littoralis var. clathrata","Entomoneis gigantea var. septentrionalis","Fossula","Navicula transitans var. derasa","Navicula transitans var. transitans","Pinnularia quadratarea var. capitata"]}
+{ scientificName: 'Pinnularia quadratarea var. capitata' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Bacillaria paxillifera var. tumidula' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Diploneis littoralis var. clathrata' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{"scientificName":"Chrysophyceae","taxonRank":"class","synonym":"false","taxonomicStatus":"accepted","kingdom":"Chromista","phylum":"Ochrophyta","class":"Chrysophyceae","order":"","family":"","genus":"","taxonID":"https://api.gbif.org/v1/species/7073563","scientificNameAuthorship":"","references":"","taxonRemarks":"","type":"Taxon","modified":"2018-02-01T18:08:39.127+0000","unknown":"Chrysophyceae cyst 1","url":"https://gbif.org/species/7073563","similarity":0.8275862068965517}
+{ scientificName: 'Entomoneis gigantea var. septentrionalis' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Navicula transitans var. transitans' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Navicula transitans var. derasa' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+
+MOSJ2016 mosj2016_pht.ndjson
+(node:10641) ExperimentalWarning: The ESM module loader is experimental.
+Checked 155 names, found 152 in local taxonomy, unknown: 3
+{"unknown":["Chaetoceros convolutus f. trisetosa","Conticriba","Dunaliella salina"]}
+{ scientificName: 'Chaetoceros convolutus f. trisetosa' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{"scientificName":"Conticribra","taxonRank":"genus","synonym":"false","taxonomicStatus":"accepted","kingdom":"Chromista","phylum":"Ochrophyta","class":"Bacillariophyceae","order":"Thalassiosirales","family":"Thalassiosiraceae","genus":"Conticribra","taxonID":"https://api.gbif.org/v1/species/8131159","scientificNameAuthorship":"K.Stachura-Suchoples & D.M.Williams, 2009","references":"","taxonRemarks":"","type":"Taxon","modified":"2018-02-01T18:08:36.983+0000","unknown":"Conticriba","url":"https://gbif.org/species/8131159","similarity":0.8421052631578947}
+{ scientificName: 'Dunaliella salina' } 'Not accepted name in WoRMS via GBIF API, other matches: ' 9 true [ 'Dunaliella salina' ]
+
+MOSJ2016 mosj2016_mit.ndjson
+(node:10761) ExperimentalWarning: The ESM module loader is experimental.
+Checked 63 names, found 63 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+MOSJ2016 mosj2016_han.ndjson
+(node:10880) ExperimentalWarning: The ESM module loader is experimental.
+Checked 62 names, found 62 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+ARCEx2016 arcex2016_pht.ndjson
+(node:11043) ExperimentalWarning: The ESM module loader is experimental.
+Checked 138 names, found 138 in local taxonomy, unknown: 0
+{"unknown":[]}
+
+GlacierFront2017 glacierfront_tw-ice2017_pht.ndjson
+(node:11233) ExperimentalWarning: The ESM module loader is experimental.
+Checked 43 names, found 42 in local taxonomy, unknown: 1
+{"unknown":["Conticriba"]}
+{"scientificName":"Conticribra","taxonRank":"genus","synonym":"false","taxonomicStatus":"accepted","kingdom":"Chromista","phylum":"Ochrophyta","class":"Bacillariophyceae","order":"Thalassiosirales","family":"Thalassiosiraceae","genus":"Conticribra","taxonID":"https://api.gbif.org/v1/species/8131159","scientificNameAuthorship":"K.Stachura-Suchoples & D.M.Williams, 2009","references":"","taxonRemarks":"","type":"Taxon","modified":"2018-02-01T18:08:36.983+0000","unknown":"Conticriba","url":"https://gbif.org/species/8131159","similarity":0.8421052631578947}
+
+GlacierFront2017 glacierfront_tw-ice2017_han.ndjson
+(node:11351) ExperimentalWarning: The ESM module loader is experimental.
+Checked 18 names, found 18 in local taxonomy, unknown: 0
+{"unknown":[]}
+

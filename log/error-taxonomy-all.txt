@@ -1,0 +1,17 @@
+(node:11552) ExperimentalWarning: The ESM module loader is experimental.
+Checked 459 names, found 442 in local taxonomy, unknown: 17
+{"unknown":["Bacillaria paxillifera var. tumidula","Chaetoceros convolutus f. trisetosa","Chrysophyceae cyst 1","Conticriba","Coxiella","Diploneis littoralis var. clathrata","Dunaliella salina","Entomoneis gigantea var. septentrionalis","Fossula","Gymnodinium bipes","Mamiellales","Navicula transitans var. derasa","Navicula transitans var. transitans","Pinnularia quadratarea var. capitata","Pleuronematine scuticociliates","Statocysta of Dinobryon","Tripos elongatum"]}
+{ scientificName: 'Chaetoceros convolutus f. trisetosa' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Diploneis littoralis var. clathrata' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Bacillaria paxillifera var. tumidula' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{"scientificName":"Conticribra","taxonRank":"genus","synonym":"false","taxonomicStatus":"accepted","kingdom":"Chromista","phylum":"Ochrophyta","class":"Bacillariophyceae","order":"Thalassiosirales","family":"Thalassiosiraceae","genus":"Conticribra","taxonID":"https://api.gbif.org/v1/species/8131159","scientificNameAuthorship":"K.Stachura-Suchoples & D.M.Williams, 2009","references":"","taxonRemarks":"","type":"Taxon","modified":"2018-02-01T18:08:36.983+0000","unknown":"Conticriba","url":"https://gbif.org/species/8131159","similarity":0.8421052631578947}
+{ scientificName: 'Dunaliella salina' } 'Not accepted name in WoRMS via GBIF API, other matches: ' 9 true [ 'Dunaliella salina' ]
+{ scientificName: 'Tripos elongatum' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Entomoneis gigantea var. septentrionalis' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Gymnodinium bipes' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{"scientificName":"Chrysophyceae","taxonRank":"class","synonym":"false","taxonomicStatus":"accepted","kingdom":"Chromista","phylum":"Ochrophyta","class":"Chrysophyceae","order":"","family":"","genus":"","taxonID":"https://api.gbif.org/v1/species/7073563","scientificNameAuthorship":"","references":"","taxonRemarks":"","type":"Taxon","modified":"2018-02-01T18:08:39.127+0000","unknown":"Chrysophyceae cyst 1","url":"https://gbif.org/species/7073563","similarity":0.8275862068965517}
+{ scientificName: 'Navicula transitans var. derasa' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Navicula transitans var. transitans' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Pinnularia quadratarea var. capitata' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Statocysta of Dinobryon' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'
+{ scientificName: 'Pleuronematine scuticociliates' } 'Not accepted in WoRMS/GBIF and no local match > 0.8 similarity'

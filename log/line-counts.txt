@@ -1,0 +1,90 @@
+1469 data/deposit/iopan/protist-biodiversity/alkekonge-2009.tsv
+1468 data/input/iopan/protist-biodiversity/ndjson/alkekonge-2009.ndjson
+1469 data/input/iopan/protist-biodiversity/tsv/alkekonge-2009.tsv
+
+1110 data/deposit/iopan/protist-biodiversity/merclim-2009.tsv
+1109 data/input/iopan/protist-biodiversity/ndjson/merclim-2009.ndjson
+1110 data/input/iopan/protist-biodiversity/tsv/merclim-2009.tsv
+
+962 data/deposit/iopan/protist-biodiversity/alkekonge2010.tsv
+961 data/input/iopan/protist-biodiversity/ndjson/alkekonge2010.ndjson
+962 data/input/iopan/protist-biodiversity/tsv/alkekonge2010.tsv
+
+3444 data/deposit/iopan/protist-biodiversity/ice2010_konghau_database_complete_phytoplankton_niskin.tsv
+3443 data/input/iopan/protist-biodiversity/ndjson/ice2010_konghau_database_complete_phytoplankton_niskin.ndjson
+3444 data/input/iopan/protist-biodiversity/tsv/ice2010_konghau_database_complete_phytoplankton_niskin.tsv
+
+153 data/deposit/iopan/protist-biodiversity/ice2010_konghau_database_complete_handnet.tsv
+152 data/input/iopan/protist-biodiversity/ndjson/ice2010_konghau_database_complete_handnet.ndjson
+153 data/input/iopan/protist-biodiversity/tsv/ice2010_konghau_database_complete_handnet.tsv
+
+1538 data/deposit/iopan/protist-biodiversity/mosj_2011.tsv
+1537 data/input/iopan/protist-biodiversity/ndjson/mosj_2011.ndjson
+1538 data/input/iopan/protist-biodiversity/tsv/mosj_2011.tsv
+
+1639 data/deposit/iopan/protist-biodiversity/mosj2012.tsv
+1638 data/input/iopan/protist-biodiversity/ndjson/mosj2012.ndjson
+1639 data/input/iopan/protist-biodiversity/tsv/mosj2012.tsv
+
+2671 data/deposit/iopan/protist-biodiversity/ice2012wcolumndatabase.tsv
+2665 data/input/iopan/protist-biodiversity/ndjson/ice2012wcolumndatabase.ndjson
+2666 data/input/iopan/protist-biodiversity/tsv/ice2012wcolumndatabase.tsv
+
+41 data/deposit/iopan/protist-biodiversity/pnc2012-protist.tsv
+40 data/input/iopan/protist-biodiversity/ndjson/pnc2012-protist.ndjson
+41 data/input/iopan/protist-biodiversity/tsv/pnc2012-protist.tsv
+
+2269 data/deposit/iopan/protist-biodiversity/mosj2013.tsv
+2268 data/input/iopan/protist-biodiversity/ndjson/mosj2013.ndjson
+2269 data/input/iopan/protist-biodiversity/tsv/mosj2013.tsv
+
+1390 data/deposit/iopan/protist-biodiversity/mosj2014_pht.tsv
+1388 data/input/iopan/protist-biodiversity/ndjson/mosj2014_pht.ndjson
+1389 data/input/iopan/protist-biodiversity/tsv/mosj2014_pht.tsv
+
+922 data/deposit/iopan/protist-biodiversity/ice2014_pht.tsv
+921 data/input/iopan/protist-biodiversity/ndjson/ice2014_pht.ndjson
+922 data/input/iopan/protist-biodiversity/tsv/ice2014_pht.tsv
+
+353 data/deposit/iopan/protist-biodiversity/mosj2015.tsv
+348 data/input/iopan/protist-biodiversity/ndjson/mosj2015.ndjson
+349 data/input/iopan/protist-biodiversity/tsv/mosj2015.tsv
+
+4843 data/deposit/iopan/protist-biodiversity/n-ice2015_pht.tsv
+4842 data/input/iopan/protist-biodiversity/ndjson/n-ice2015_pht.ndjson
+4843 data/input/iopan/protist-biodiversity/tsv/n-ice2015_pht.tsv
+
+7863 data/deposit/iopan/protist-biodiversity/n-ice2015_iat.tsv
+7861 data/input/iopan/protist-biodiversity/ndjson/n-ice2015_iat.ndjson
+7862 data/input/iopan/protist-biodiversity/tsv/n-ice2015_iat.tsv
+
+3258 data/deposit/iopan/protist-biodiversity/mosj2016_pht.tsv
+3254 data/input/iopan/protist-biodiversity/ndjson/mosj2016_pht.ndjson
+3255 data/input/iopan/protist-biodiversity/tsv/mosj2016_pht.tsv
+
+769 data/deposit/iopan/protist-biodiversity/mosj2016_mit.tsv
+728 data/input/iopan/protist-biodiversity/ndjson/mosj2016_mit.ndjson
+729 data/input/iopan/protist-biodiversity/tsv/mosj2016_mit.tsv
+
+315 data/deposit/iopan/protist-biodiversity/mosj2016_han.tsv
+303 data/input/iopan/protist-biodiversity/ndjson/mosj2016_han.ndjson
+304 data/input/iopan/protist-biodiversity/tsv/mosj2016_han.tsv
+
+1580 data/deposit/iopan/protist-biodiversity/arcex2016_pht.tsv
+1573 data/input/iopan/protist-biodiversity/ndjson/arcex2016_pht.ndjson
+1574 data/input/iopan/protist-biodiversity/tsv/arcex2016_pht.tsv
+
+347 data/deposit/iopan/protist-biodiversity/glacierfront_tw-ice2017_pht.tsv
+346 data/input/iopan/protist-biodiversity/ndjson/glacierfront_tw-ice2017_pht.ndjson
+347 data/input/iopan/protist-biodiversity/tsv/glacierfront_tw-ice2017_pht.tsv
+
+75 data/deposit/iopan/protist-biodiversity/glacierfront_tw-ice2017_han.tsv
+58 data/input/iopan/protist-biodiversity/ndjson/glacierfront_tw-ice2017_han.ndjson
+59 data/input/iopan/protist-biodiversity/tsv/glacierfront_tw-ice2017_han.tsv
+
+Deposited TSV lines:
+37011
+NDJSON lines:
+36903
+DwC TSV (with events) lines:
+35771 data/input/iopan/protist-biodiversity/tsv/iopan_legacy_protist_dwc-v2021-11-10.tsv
