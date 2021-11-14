@@ -23,7 +23,7 @@ volume =
 
 ## Validate calculations
 
-A [https://deno](deno.land) script is [provided](./iopan_protist_recalc) to recalculate and validate Darwin Core occurrence NDJSON from stdin
+A [deno](https://deno.land) script is [provided](./iopan_protist_recalc) to recalculate and validate Darwin Core occurrence NDJSON from stdin
 
 ### perfect
 
