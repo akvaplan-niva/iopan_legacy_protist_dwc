@@ -4,7 +4,7 @@ Data for [npolar/marine-db/milestone/1](https://github.com/npolar/marine-db/mile
 
 See also
 
-- [input files](https://github.com/npolar/marine-db/issues/56)
+- [input files](./log/line-counts.txt) with line number counts
 - [issues of milestone 1](https://github.com/npolar/marine-db/issues?q=is%3Aissue+milestone%3A%22Original+IOPAN+protist+data+2009-2017+converted+to+Darwin+Core%22)
 
 ## Calculations
