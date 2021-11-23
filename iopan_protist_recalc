@@ -1,0 +1,28 @@
+deno run https://deno.land/x/newline@v0.2.0/nd-map.js '{ organismQuantity, individualCount, sampleSizeValue, year,
+   fieldsInCount, maxFields, takenVolume, bottleVolume, initialVolume, cellsInChamber, dilutionFactor,
+   takenVolumeML,
+   expedition,
+ }=d,
+
+  sampleSize = +sampleSizeValue,
+  takenVolume = takenVolume ?? +takenVolumeML,
+  bottleVolume = bottleVolume ?? args["bottle-volume"] ?? 1000,
+  initialVolume = initialVolume  ?? args["initial-volume"] ?? 1,
+  takenBottleRatio = takenVolume/bottleVolume,
+  bottleTakenRatio = 1/takenBottleRatio,
+  dilutionFactor = dilutionFactor ?? args["dilution-factor"] ?? 1,
+
+  calculatedVolume = initialVolume * fieldsInCount/maxFields * takenVolume/bottleVolume * dilutionFactor,
+
+  calculatedCellsLFromIndividualCountDivSampleVolume = individualCount/sampleSize,
+  calculatedCellsLFromCalculatedVolume = individualCount/calculatedVolume,
+
+  volumeRatio = calculatedVolume && sampleSizeValue ? +(calculatedVolume/sampleSize).toPrecision(2) : null,
+
+  quantityRatio = calculatedCellsLFromIndividualCountDivSampleVolume && organismQuantity ? +(calculatedCellsLFromIndividualCountDivSampleVolume/organismQuantity).toPrecision(2) : null,
+
+  quantityRatio2 = +(calculatedCellsLFromCalculatedVolume/organismQuantity).toPrecision(2),
+
+  perfect = volumeRatio ? +(volumeRatio*quantityRatio*quantityRatio).toPrecision(2)===1 : null,
+
+{ perfect, volumeRatio, quantityRatio, quantityRatio2, calculatedVolume, initialVolume, fieldsInCount, maxFields, takenVolume, bottleVolume, dilutionFactor, takenVolume, bottleVolume, takenVolumeML, takenBottleRatio, bottleTakenRatio, initialVolume, calculatedVolume, calculatedCellsLFromIndividualCountDivSampleVolume, calculatedCellsLFromCalculatedVolume, occurrence: args["occurrence"] ? d : undefined }' "$@"
